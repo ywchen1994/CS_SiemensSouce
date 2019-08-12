@@ -1,0 +1,19 @@
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Debug\Siemens.OpcUA.Client.exe.config
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Debug\Siemens.OpcUA.Client.exe
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Debug\Siemens.OpcUA.Client.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Debug\Opc.Ua.Client.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Debug\Opc.Ua.Core.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Debug\Opc.Ua.Client.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Debug\Opc.Ua.Core.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\UA Client Example.csprojAssemblyReference.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.AttributeListControl.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.BrowseControl.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.MainForm.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.MonitoredItemsControl.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.Properties.Resources.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.WriteValuesDialog.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\UA Client Example.csproj.GenerateResource.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\UA Client Example.csproj.CoreCompileInputs.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\UA Client Example.csproj.CopyComplete
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.exe
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Debug\Siemens.OpcUA.Client.pdb

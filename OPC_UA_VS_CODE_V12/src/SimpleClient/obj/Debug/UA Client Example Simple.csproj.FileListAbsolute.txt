@@ -1,0 +1,15 @@
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\bin\Debug\Siemens.OpcUA.SimpleClient.exe.config
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\bin\Debug\Siemens.OpcUA.SimpleClient.exe
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\bin\Debug\Siemens.OpcUA.SimpleClient.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\bin\Debug\Opc.Ua.Client.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\bin\Debug\Opc.Ua.Core.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\bin\Debug\Opc.Ua.Client.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\bin\Debug\Opc.Ua.Core.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\UA Client Example Simple.csprojAssemblyReference.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\Siemens.OpcUA.SimpleClient.MainForm.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\Siemens.OpcUA.SimpleClient.Properties.Resources.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\UA Client Example Simple.csproj.GenerateResource.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\UA Client Example Simple.csproj.CoreCompileInputs.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\UA Client Example Simple.csproj.CopyComplete
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\Siemens.OpcUA.SimpleClient.exe
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\SimpleClient\obj\Debug\Siemens.OpcUA.SimpleClient.pdb

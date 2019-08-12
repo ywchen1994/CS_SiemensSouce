@@ -1,0 +1,19 @@
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Release\Siemens.OpcUA.Client.exe.config
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Release\Siemens.OpcUA.Client.exe
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Release\Siemens.OpcUA.Client.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Release\Opc.Ua.Client.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Release\Opc.Ua.Core.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Release\Opc.Ua.Client.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\bin\Release\Opc.Ua.Core.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.AttributeListControl.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.BrowseControl.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.MainForm.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.MonitoredItemsControl.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.Properties.Resources.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.WriteValuesDialog.resources
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\UA Client Example.csproj.GenerateResource.Cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.exe
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\Siemens.OpcUA.Client.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\UA Client Example.csprojAssemblyReference.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\UA Client Example.csproj.CoreCompileInputs.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UAClient\obj\Release\UA Client Example.csproj.CopyComplete

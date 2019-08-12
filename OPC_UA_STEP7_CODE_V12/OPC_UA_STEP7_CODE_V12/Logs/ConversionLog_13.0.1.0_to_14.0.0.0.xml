@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='ConversionLogFile.xsl'?>
+<LogFile projectName="OPC_UA_S_V13_SP1_V14" typeText="Type" messageText="Message" timeText="Time">
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:01 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Upgrade started" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:01 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Reading information from previous project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:02 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Creating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:10 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Exporting project/library data." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:47:16 PM" Debug="false">
+    <Text />
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:16 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Importing data into the new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:47:31 PM" Debug="false">
+    <Text />
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:47:36 PM" Debug="false">
+    <Text>Reorganization succeed!</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:37 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="CheckRepair lost+found objects" />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:47:37 PM" Debug="false">
+    <Text>No lost+found object is detected.</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:39 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Importing data into the new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:45 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The project or the library is checked for consistency and completeness and is repaired." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:46 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:47:51 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:48:59 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Updating new project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:48:59 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information is being converted." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:49:01 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="The cross-reference information was created successfully." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:49:01 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Conversion of the cross-reference information is finished." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:49:01 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Cleaning up outdated metadata." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Iecpl' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Iecpl_BlockInterface_V13.0.1' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Iecpl_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'S7FP' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'S7FP_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.CommonModel.Printing' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.CommonServices.IPI.Core' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.CommonServices.Library.MasterCopies' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.CommonServices.Library.SystemTypes' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.CommonServices.Library.UserTypes' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.CommonServices.Library.V12SP1' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.DomainModel.Online' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.DomainModel.OnlineBackup' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Automation.DomainModel.TextLists' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.AlarmServices.Model.LangConnector.TextLists.V14' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.AlarmServices.Model.LangConnector.V14' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.AlarmServices.Model.V14' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.AlarmServices.ObjectFrame.S7300S7400' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.AlarmServices.ObjectFrame.S7400' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.AlarmServices.ObjectFrame.S7500S71200' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.HwConfiguration.Security.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.Lang.ProDiag' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.Lang.SiVArcSupport' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.Safety' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.Simatic.Tech.SMC' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.TechTrace.Device.Plc.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.TechTrace.Device.Plc.Model.V14' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Meta Package 'Siemens.TechTrace.Editor.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.TechTrace.Device.Plc.Model.V14' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Lang.ProDiag.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.AlarmServices.LangConnector.V14.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.AlarmServices.V14.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.DEVICE.MDD_PC-Device_1.0_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.CP.IE.RTM.PCI.MDD_PC-Cp-Ie-General-8.2.0_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.APP.OPC.MDD_PC-Opc-App_8.2.0_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7400.CP.ETHERNET.CP443-1 Advanced-IT.MDD_6GK7443-1GX20-0XE0_2.0_13.0.20' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.CP.ETHERNET.CP343-1.MDD_6GK7343-1EX21-0XE0_1.2_13.0.20' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.CPU.CPU_315_2_DP.MDD_6ES7315-2AG10-0AB0_2.6_13.0.10' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7PUpgradeV13.0.1.0.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl_V13.0.1' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7PSW.V13.0.1.1.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7PSW.V13.0.1.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.CP.IE.RTM.PCI.MDD_PC-Cp-Ie-General-8.2.0_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.APP.OPC.MDD_PC-Opc-App_8.2.0_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.StationManager.MDD_PC-Station-Manager_1.1_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.RACK.MDD_PC-Rack_1.0_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.PC.DEVICE.MDD_PC-Device_1.0_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7400.PS.Standard.MDD_6ES7407-0KA02-0AA0_1.0_11.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7400.CP.ETHERNET.CP443-1 Advanced-IT.MDD_6GK7443-1GX20-0XE0_2.0_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7400.CPU.CPU_416_3_DP.MDD_6ES7416-3XR05-0AB0_5.1_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7400.SM_DI.MDD_6ES7423-DIDO-SIMULATOR_1.0_12.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7400.RACK.MDD_6ES7400-1JA01-0AA0_1.0_11.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7400.DEVICE.MDD_S7400-Device_1.0_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.CP.ETHERNET.CP343-1.MDD_6GK7343-1EX21-0XE0_1.2_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7PSW.V13.0.0.1.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7PSW.V13.0.0.0.NonMandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Safety.Model_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Safety.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.TechTrace.Editor.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.TechTrace.Device.Plc.Model' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl_V12' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Tech.SMC' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.CPU.CPU_315_2_DP.MDD_6ES7315-2AG10-0AB0_2.6_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.SM_DIO.MDD_6ES7323-1BH01-0AA0_1.0_12.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.PS.MDD_6ES7307-1BA00-0AA0_1.0_12.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.RACK.MDD_6ES7390-1xxx0-0AA0_1.0_12.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'HW.S7300.DEVICE.MDD_S7300-Device_1.0_13.0.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Automation.DomainModel.OnlineBackup' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Automation.Portal.Model.IPI' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Automation.Portal.Model.V12.0.1.0' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BSW.V13.0.1.1.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BSW.V13.0.0.1.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Package container 'Siemens.Simatic.Iecpl.S7BSW.V12.0.1.0.Mandatory' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.SinemaEBasic:13.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:13.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:13.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:12.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:11.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:13.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Professional:12.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Advanced:12.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.SinemaEBasic:13.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:11.00.02.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:12.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:13.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:11.00.02.04' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:12.00.01.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Portal:11.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Comfort:12.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:12.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.STEP7.Basic:13.00.00.00' was deleted</Text>
+  </Details>
+  <Details ServiceId="80" MessageId="30" Timestamp="11/30/2017 3:49:10 PM" Debug="false">
+    <Text>Product version 'Siemens.Simatic.Hmi.Basic:12.00.00.00' was deleted</Text>
+  </Details>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:49:10 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Saving the upgraded project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="80" MessageId="30" MessageClass="Information" Timestamp="11/30/2017 3:49:11 PM">
+    <Number ServiceNumber="80" MessageNumber="30" />
+    <Text FeedbackText="Saving the upgraded project/library." />
+    <Help HelpId="-1" />
+  </MessageCell>
+  <MessageCell ServiceId="Automation-ObjectFrame-Feedbacks" MessageId="ConversionInfoTabProjectSucceeded" MessageClass="Success" Timestamp="11/30/2017 3:49:12 PM">
+    <Number ServiceNumber="80" MessageNumber="34" />
+    <Text FeedbackText="Project 'C:\Users\user\Desktop\42014088_OPC_UAClient_CODE_V1_1\OPC_UA_S_V13_2\OPC_UA_S_V13_SP1\System\PEData.plf' was successfully upgraded and saved as project 'C:\Users\user\Desktop\42014088_OPC_UAClient_CODE_V1_1\OPC_UA_S_V13_2\OPC_UA_S_V13_SP1_V14\System\PEData.plf'." />
+    <Help HelpId="-1" HelpFile="" />
+  </MessageCell>
+</LogFile>

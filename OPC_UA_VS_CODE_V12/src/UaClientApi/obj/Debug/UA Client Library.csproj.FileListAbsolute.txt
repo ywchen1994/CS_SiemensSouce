@@ -1,0 +1,9 @@
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\bin\Debug\Opc.Ua.Client.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\bin\Debug\Opc.Ua.Client.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\bin\Debug\Opc.Ua.Core.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\bin\Debug\Opc.Ua.Core.pdb
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\obj\Debug\UA Client Library.csprojAssemblyReference.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\obj\Debug\UA Client Library.csproj.CoreCompileInputs.cache
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\obj\Debug\UA Client Library.csproj.CopyComplete
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\obj\Debug\Opc.Ua.Client.dll
+E:\42014088_OPC_UAClient_CODE_V12\OPC_UA_VS_CODE_V12\src\UaClientApi\obj\Debug\Opc.Ua.Client.pdb
